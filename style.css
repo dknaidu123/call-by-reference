@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://www.color-hex.com/palettes/5361.png);
+    background-size: cover;
+    align-items: center;
+    text-align: center;   
+}
+button{
+    font-size: 30px;
+
+}
